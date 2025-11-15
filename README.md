@@ -50,5 +50,3 @@ Veja o arquivo `MANUAL_IMPLANTACAO.md` para instruções detalhadas.
 ## 📄 Licença
 
 © 2025 SENAI São Paulo - Todos os direitos reservados.
-# calendario-sao-paulo-skills
-# calendario-sao-paulo-skills

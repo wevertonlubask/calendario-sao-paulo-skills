@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "npm install vite@^4.4.5 && npx vite build",
     "preview": "npx vite preview --port 3000 --host 0.0.0.0"
   },
   "engines": {
@@ -18,7 +18,8 @@
     "react-dom": "^18.2.0",
     "lucide-react": "^0.263.1",
     "vite": "^4.4.5",
-    "@vitejs/plugin-react": "^4.0.3"
+    "@vitejs/plugin-react": "^4.0.3",
+    "@supabase/supabase-js": "^2.39.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
